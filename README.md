@@ -2,11 +2,13 @@
 
 ### 💻 Software Engineer | Java & Spring Boot | Backend & API | DevOps
 
-Je suis **Ingénieur Logiciel** spécialisé dans la conception, le développement et l’intégration de solutions informatiques robustes.
+Je suis **Ingénieur Logiciel** spécialisé dans la conception, le développement et l'intégration de solutions informatiques robustes.
 
 Je travaille principalement sur des applications **Java / Spring Boot**, des **API REST**, des systèmes de gestion de données et des infrastructures conteneurisées avec **Docker**.
 
 Mon objectif est de concevoir des solutions **fiables, sécurisées, maintenables et adaptées aux besoins métiers**.
+
+🌐 **Portfolio :** [satchemi.com](https://satchemi.com)
 
 ---
 
@@ -110,9 +112,7 @@ Mise en place d'une solution de suivi en temps réel permettant notamment :
 
 Application permettant la gestion dynamique des données d'un annuaire.
 
-**Technologies :**
-
-`Java` · `Spring Boot` · `PostgreSQL` · `Docker` · `REST API`
+**Technologies :** `Java` · `Spring Boot` · `PostgreSQL` · `Docker` · `REST API`
 
 ---
 
@@ -242,6 +242,9 @@ Auth Service    Business APIs
 ## 📫 Me contacter
 
 <p>
+  <a href="https://satchemi.com">
+    <img src="https://img.shields.io/badge/Portfolio-satchemi.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
   <a href="https://github.com/spring-sa0">
     <img src="https://img.shields.io/badge/GitHub-spring--sa0-181717?style=for-the-badge&logo=github"/>
   </a>
